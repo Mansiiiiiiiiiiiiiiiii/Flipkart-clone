@@ -20,7 +20,7 @@ Flipkart is a popular e-commerce platform in India, offering a wide range of pro
 
 ## Credits
 
-This clone was created by [Your Name].
+This clone was created by Mansi Kumari.
 
 Feel free to explore and modify the code as needed. Happy shopping!
 
